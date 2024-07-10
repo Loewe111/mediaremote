@@ -8,4 +8,4 @@ This is a simple media remote for your phone or pc, it connects via bluetooth an
 
 I recently made this project with a simple perfboard and a off-the-shelf ESP32 module and Lipo battery. But i wasn't satisfied with how big it was and the short battery life because of the step-up converter i used. So i decided to make a new version with a custom PCB with a (for me) new Charger IC, the `MCP73871-2AAI/ML` and a LDO instead of a step-up and a step-down.
 
-![Schematic](/schematic.png)
+![Schematic](https://github.com/Loewe111/mediaremote/blob/main/Schematic.png?raw=true)
